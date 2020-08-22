@@ -1,1 +1,2 @@
-# StreamlitStockSearchWebApp
+# Streamlit - Stock Search Web App
+

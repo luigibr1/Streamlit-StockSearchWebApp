@@ -1,5 +1,9 @@
 # Streamlit - Stock Search Web App
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
+---
+
 ![Demo](assets/web_app_demo.gif)
 
 ## Introduction
@@ -16,7 +20,6 @@ This web app allows you to search for and retrieve information on any stock from
 
 For each searched ticker, the web app will query the yfinance API, which will retrieve the related market data from Yahoo! Finance and save it into a dataframe that streamlit will use as input to display the data.
 
----
 
 ## Let’s get started
 
@@ -42,7 +45,6 @@ You will also need the datetime library which comes with the default python inst
 
 By using the style sheet, you can customize the background and text colour of the web app, the colour and size of the “GO” button, as well as the colour of the default text of the search box in the sidebar (i.e. “Enter a valid stock ticker…” — see line 16 of Part 1 of the code).
 
----
 
 ## Let’s run it
 

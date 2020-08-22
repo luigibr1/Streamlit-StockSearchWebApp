@@ -51,7 +51,7 @@ By using the style sheet, you can customize the background and text colour of th
 Open a terminal session, navigate to the folder where the files are stored, and run:
 
 ~~~
-streamlit run webapp.py
+streamlit run web_app_v3.py
 ~~~
 
 If all is proceeding well, you should see a terminal message saying that you can view your streamlit app in your browser. At this point, a new window of your default web browser will open and display your web app at the address **http://localhost:8501**.
